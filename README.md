@@ -3,7 +3,7 @@
 
 Predict stock or crypto prices in Python using recurrent neural network and machine learning.
 
-reference:
+#### reference:
 
 https://medium.com/@mentormelv/how-to-use-python-to-analyze-cryptocurrencies-c5b9601ee0bb
 
